@@ -14,7 +14,7 @@
 
 	사용자의 성별, 나이, 키, 체중, 체지방률을 입력해 권장 단백질 섭취량과 기초대사량을 계산합니다.
 
-	![img1](<img width="621" alt="daily_diet1" src="https://user-images.githubusercontent.com/113167709/205621896-cd73854e-25cd-40c9-a248-04cee5bce9c3.png">)
+	![img1]<img width="621" alt="daily_diet1" src="https://user-images.githubusercontent.com/113167709/205621896-cd73854e-25cd-40c9-a248-04cee5bce9c3.png">
 
 	```
 	def button1():
@@ -81,7 +81,7 @@
 
 	사용자의 식단관리 목표와 활동을 계산하여 활동대사량을 계산합니다.
 
-	![img2](<img width="620" alt="daily_diet2" src="https://user-images.githubusercontent.com/113167709/205622005-9e04a1d9-43be-492a-b587-576a08d05eb8.png">)
+	![img2]<img width="620" alt="daily_diet2" src="https://user-images.githubusercontent.com/113167709/205622005-9e04a1d9-43be-492a-b587-576a08d05eb8.png">
 	```
 	def button2():
     global totalkcal
@@ -142,12 +142,12 @@
 
 	탄수화물 비율과 섭취한 음식을 계산하여 영양소별 소비칼로리와 섭취한 칼로리를 계산하여 그래프로 보여줍니다.
 
-	![img3](<img width="620" alt="daily_diet3" src="https://user-images.githubusercontent.com/113167709/205622055-34204c41-7e1b-4b3b-8c31-c18ce6553255.png">)
+	![img3]<img width="620" alt="daily_diet3" src="https://user-images.githubusercontent.com/113167709/205622055-34204c41-7e1b-4b3b-8c31-c18ce6553255.png">
 
 
-	![img4](<img width="597" alt="graph" src="https://user-images.githubusercontent.com/113167709/205622114-0ed7a148-ccde-4bb3-9376-9a2f05b1de1d.png">)
+	![img4]<img width="597" alt="graph" src="https://user-images.githubusercontent.com/113167709/205622114-0ed7a148-ccde-4bb3-9376-9a2f05b1de1d.png">
 
-    '''
+    	'''
 	def button3():
     x = np.arange(3)
     nutrient = ['carbohydrate', 'protein', 'fat']
