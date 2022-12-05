@@ -139,7 +139,7 @@
         totalkcal = totalkcal+kcalchange
         label17_1.configure(text=f'{totalkcal:.4f}' + 'kcal')
 	```
-* 입력버튼 3
+* 입력버튼 3(뚱이)
 
 	탄수화물 비율과 섭취한 음식을 계산하여 영양소별 소비칼로리와 섭취한 칼로리를 계산하여 그래프로 보여줍니다.
 
