@@ -82,8 +82,9 @@
 	사용자의 식단관리 목표와 활동을 계산하여 활동대사량을 계산합니다.
 
 	<img width="620" alt="daily_diet2" src="https://user-images.githubusercontent.com/113167709/205622005-9e04a1d9-43be-492a-b587-576a08d05eb8.png">
+	
 	```
-	def button2():
+    def button2():
     global totalkcal
     kcalchange=float(entry3.get())
     hour1 = float(entry4.get())
@@ -147,8 +148,8 @@
 
 	<img width="597" alt="graph" src="https://user-images.githubusercontent.com/113167709/205622114-0ed7a148-ccde-4bb3-9376-9a2f05b1de1d.png">
 
-    	'''
-	def button3():
+    '''
+    def button3():
     x = np.arange(3)
     nutrient = ['carbohydrate', 'protein', 'fat']
     carbopercent = float(entry12.get())
@@ -199,7 +200,7 @@
 
     plt.show()
 
-	```
+    ```
 ## References
 * [matplotlib](https://matplotlib.org/)
 * [numpy](https://numpy.org/)
