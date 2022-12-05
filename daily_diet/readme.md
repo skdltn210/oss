@@ -148,7 +148,7 @@
 
 	<img width="597" alt="graph" src="https://user-images.githubusercontent.com/113167709/205622114-0ed7a148-ccde-4bb3-9376-9a2f05b1de1d.png">
 
-    '''
+    ```
     def button3():
     x = np.arange(3)
     nutrient = ['carbohydrate', 'protein', 'fat']
@@ -199,7 +199,6 @@
     plt.ylabel('kcal')
 
     plt.show()
-
     ```
 ## References
 * [matplotlib](https://matplotlib.org/)
